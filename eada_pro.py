@@ -3,7 +3,6 @@
 # Advanced Ergonomics + Accessibility + Performance Optimization
 # =============================================================
 
-import cv2
 import numpy as np
 import sounddevice as sd
 import mediapipe as mp
